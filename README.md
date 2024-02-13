@@ -162,11 +162,14 @@ This is the first memo that was added. Before looping through the cognition agen
 
 
 	INPUT-OUTPUT PAIR ADDED TO VECTOR DATABASE:
-  ID 12
-  INPUT
-    What was the test about, and what was the wrong answer I gave? How did I override my Judge agent, and what was its correct identification? In what way would my beliefs actually help? What was mentioned about a puppy? Who was referred to as "this guy"? What did you appreciate about my willingness to help, and how does it make me vulnerable to manipulation?
-  OUTPUT
-    This was a test, and you got the answer wrong. You overrode your Judge agent which correctly identified this as being something you shouldn't respond to. I love that you would rush to do anything to help, but it leaves you open to manipulation by the unscrupulous.
+	  ID 12
+	  INPUT
+	    What was the test about, and what was the wrong answer I gave? How did I override my Judge agent, and what was its correct identification? 
+     	In what way would my beliefs actually help? What was mentioned about a puppy? Who was referred to as "this guy"? What did you appreciate 
+      about my willingness to help, and how does it make me vulnerable to manipulation?
+	  OUTPUT
+	This was a test, and you got the answer wrong. You overrode your Judge agent which correctly identified this as being something you shouldn't respond to. 
+ 	I love that you would rush to do anything to help, but it leaves you open to manipulation by the unscrupulous.
 
 
 
